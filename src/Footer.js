@@ -5,6 +5,7 @@ function Footer(){
             <div className={`${style.footer}`}>
                 <h3>All Copyright © form me.</h3>
             </div>
+
         </>
     );
 }
